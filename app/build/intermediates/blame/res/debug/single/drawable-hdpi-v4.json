@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ico_mic.png",
+        "source": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\src\\main\\res\\drawable-hdpi\\ico_mic.png"
+    }
+]

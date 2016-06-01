@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gradient.xml",
+        "source": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\j.png",
+        "source": "C:\\Users\\sudhi\\AndroidStudioProjects\\SpeechToText\\app\\src\\main\\res\\drawable\\j.png"
+    }
+]
